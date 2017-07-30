@@ -1,0 +1,5 @@
+#FF6B6B -red
+#13d0a8- light green
+#2980B9- experience old
+#5BCF80 - skills old
+#ec971f - projects old
